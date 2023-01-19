@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wiktoria
-- :petri_dish: I’m interested in immunology and microbiology. I am starting my PhD in December.
-- :snake: I am currently learning python
-- :woman_technologist: In August, I started a Data career stream coding bootcamp at Code First Girls
+- :petri_dish: I’m interested in immunology and microbiology. I have started my PhD in December 2022
+- :snake: I am currently learning Python and R
+- :woman_technologist: From August till November 2022, I did a Data career stream coding bootcamp at Code First Girls
 - :yarn: In my free time I love to knit and crochet
 
 <!---
